@@ -1,0 +1,21 @@
+header {
+  background-color: transparent;
+  color: #d4e761;
+  height: 8rem;
+  text-align: center;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  .h1 {
+    background-color: transparent;
+    margin-bottom: 4rem;
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 45rem;
+  }
+  .logoUno {
+    width: 8rem;
+    height: 8rem;
+  }
+}
